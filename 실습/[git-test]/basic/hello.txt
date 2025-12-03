@@ -1,0 +1,4 @@
+create
+add commit
+update at working dir
+diff
